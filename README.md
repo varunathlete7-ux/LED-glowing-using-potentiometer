@@ -24,10 +24,10 @@ A simple electronic circuit constructed on a breadboard using an LED, potentiome
 6. Connect the positive and negative terminals of the 9V battery.  
 7. Turn the potentiometer slowly to adjust the LED brightness.  
 8. Check that the LED brightness changes smoothly.
+![](IMG-20260921-WA0050.jpg)
 
 ![](IMG-20260921-WA0049.jpg)
 
-![](IMG-20260921-WA0050.jpg)
 
 ### **Notes**
 
