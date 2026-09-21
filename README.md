@@ -25,15 +25,9 @@ A simple electronic circuit constructed on a breadboard using an LED, potentiome
 7. Turn the potentiometer slowly to adjust the LED brightness.  
 8. Check that the LED brightness changes smoothly.
 
-### 
+![](IMG-20260921-WA0049.jpg)
 
-### **![][image1]**
-
-### **RESULT**
-
-![][image2]
-
-### 
+![](
 
 ### **Notes**
 
